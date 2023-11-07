@@ -150,7 +150,7 @@ input {
 h1,
 h2 {
   text-align: center;
-  padding: 0.7rem 0;
+  padding: 1rem 0;
 }
 
 .resultadoFinal {
@@ -233,7 +233,7 @@ h2 {
     padding: 11vh 0 36vh 0 !important;
   }
   h1 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
   }
   h2 {
     font-size: 1.2rem;
